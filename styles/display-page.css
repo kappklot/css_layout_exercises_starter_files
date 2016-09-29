@@ -1,4 +1,51 @@
-.color {
-	color: red;
-	background-color: grey;
+.main {
+	font-size: 0;
 }
+
+.parent {
+margin-top: 90px;
+margin-left: auto;
+margin-right: auto;
+width: 800px;
+border: black solid 1px;
+}
+
+.box {
+ border: 1px solid black;
+ display: inline-block;
+}
+
+.box_half {
+width: 50%;
+height: 200px;
+}
+
+.box_third {
+width: 33.3%;
+height: 300px;
+}
+
+.center {
+text-align: center;
+}
+
+.orange {
+background-color: orange;
+}
+
+.blue {
+background-color: blue;
+}
+
+.black {
+background-color: black;
+}
+
+.gray {
+background-color: gray;
+}
+
+.green {
+background-color: green;
+}
+ /* why won't it center? /*
